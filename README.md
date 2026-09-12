@@ -10,7 +10,7 @@
 
 Customer churn is one of the most costly problems for subscription-based businesses. This project builds a machine learning pipeline to predict which customers are likely to churn, enabling retention teams to intervene early with targeted strategies.
 
-The analysis covers the full ML workflow — data exploration, feature engineering, model training, evaluation, and business interpretation of results.
+The analysis covers the full ML workflow data exploration, feature engineering, model training, evaluation, and business interpretation of results.
 
 ---
 
